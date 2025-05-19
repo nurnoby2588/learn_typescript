@@ -1,0 +1,12 @@
+var userId;
+var firstName;
+var lastName;
+var isAvailabe;
+userId = 101;
+firstName = "Nurnoby";
+lastName = "Rahman";
+isAvailabe = true;
+var fullName = firstName.concat(" ").concat(lastName);
+console.log(userId);
+console.log(fullName);
+console.log(isAvailabe);
